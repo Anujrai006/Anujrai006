@@ -9,7 +9,6 @@
 - 🔭 I’m deeply engaged in **Python, HTML, CSS**, and exploring other programming languages.
 - 🌱 Currently learning about **AI, Machine Learning, and Robotics**.
 - 🎯 My ultimate goal: **To create innovative technologies that change lives.**
-- 🥋 Fun fact: I’ve been practicing **Karate** since 2077 B.S.
 - 💬 Ask me about **Python projects, backend-end development, and computer science concepts.**
 
 ---
